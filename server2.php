@@ -1,5 +1,5 @@
 <?php
-
+	Hello from Ecaterina
 	$host = gethostname();
 
 	$server = "192.168.1.204";
